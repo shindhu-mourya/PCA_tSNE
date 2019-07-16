@@ -1,4 +1,5 @@
 # PCA_tSNE
+I have used mnist dataset for PCA & tSNE.This technique is used for dimensionality reduction to visualize higher dimension datesets to lower datasets.
 # Please Note:
 tSNE data is generated on very few sample data since code takes few hours to generate. Please try to run
 the report on full data. Code might take > 12 hours to generate. or you need powerful machine.
